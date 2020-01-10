@@ -1,0 +1,15 @@
+*{
+	border-radius: 0px !important;
+}
+
+body{
+	background: #E6E6E6;
+}
+
+.login-wrapper{
+	background: #fff;
+	padding: 15px;
+	
+	border-right: 2px solid #ccc;
+	border-bottom: 2px solid #ccc;
+}
